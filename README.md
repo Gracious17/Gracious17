@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gracious17
 - 👀 I’m interested in coding,tours and business
-- 🌱 I’m currently learning new software technologies
-- 💞️ I’m looking to collaborate on software development projects
+- 🌱 I’m currently building software that solves real problems
+- 💞️ I’m looking to collaborate with teams who are building real systems
 - 📫 How to reach me... linkedin.com/in/gracious-kingsley
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: talking  to me while coding is an easy way to make me see you as a  problem to solve. 
